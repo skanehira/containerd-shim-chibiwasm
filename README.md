@@ -5,7 +5,7 @@ containerd-shim for [chibiwasm](https://github.com/skanehira/chibiwasm)
 
 ```sh
 $ apt install pkg-config libdbus-1-dev libseccomp-dev
-$ cargo build
+$ cargo build --release
 ```
 
 ## Run
